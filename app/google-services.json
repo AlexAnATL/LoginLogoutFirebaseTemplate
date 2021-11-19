@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "581856727673",
+    "firebase_url": "https://earthproject-306a2-default-rtdb.firebaseio.com",
+    "project_id": "earthproject-306a2",
+    "storage_bucket": "earthproject-306a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581856727673:android:b95816ad8167103afd3aa8",
+        "android_client_info": {
+          "package_name": "com.example.applicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581856727673-mvc3onnht8438tr7eocte8v2mtl1udam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpgJHVbByjUPdkOeV94Ld7Co8SLtjIsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581856727673-mvc3onnht8438tr7eocte8v2mtl1udam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581856727673:android:fadd718dee8d61b3fd3aa8",
+        "android_client_info": {
+          "package_name": "com.example.earthproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581856727673-mvc3onnht8438tr7eocte8v2mtl1udam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpgJHVbByjUPdkOeV94Ld7Co8SLtjIsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581856727673-mvc3onnht8438tr7eocte8v2mtl1udam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
